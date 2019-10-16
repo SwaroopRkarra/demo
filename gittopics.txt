@@ -6,4 +6,5 @@ Github
 gitlab
 bitbash
 bitbucket
+jenkins
 
